@@ -1,2 +1,9 @@
 <Configuration>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\Users\Public\Downloads</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Downloads</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
 </Configuration>
